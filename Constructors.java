@@ -14,6 +14,9 @@ class sum{
         c = a + b;
         System.out.println(c);
       }
+    //constructors are overloaded here
+    //since methods and constructors are fundamentally the same , overloading also applies to functions as well
+    
 }
 class diff{
     diff(int a , int b){
